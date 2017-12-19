@@ -1,0 +1,14 @@
+{
+  "name": "lightning-pay",
+  "version": "0.0.1",
+  "description": "Payment Implementation using Lightnign Network and Stellar Protocol",
+  "main": "index.js",
+  "repository": "https://github.com/jonathanpeterwu/lightpay",
+  "author": "jonathanpeterwu",
+  "license": "MIT",
+  "dependencies": {
+    "graphcool": "^0.10.1",
+    "stellar-sdk": "^0.7.7",
+    "stripe": "^5.4.0"
+  }
+}
